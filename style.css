@@ -1,0 +1,16 @@
+.para img{
+    height: 500px;
+}
+.footer-menu{}
+.footer-menu ul{
+    text-align: center;
+}
+.footer-menu ul li{
+    display: inline-block;
+}
+.footer-menu ul li a{
+    display: inline-block;
+    font-size: 21px;
+    margin-left: 9px;
+    color: white;
+}
